@@ -1,15 +1,15 @@
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '8.0'
+platform :ios, '11.0'
 use_frameworks!
 
 target 'SwiftyJWT' do
 
-pod 'SwiftyCrypto', '~> 0.0.1'
+pod 'SwiftyCrypto', :git => 'https://github.com/vizllx/SwiftyCrypto', :tag => '0.0.2'
 
 end
 
 target 'SwiftyJWTTests' do
 
-pod 'SwiftyCrypto', '~> 0.0.1'
+pod 'SwiftyCrypto', :git => 'https://github.com/vizllx/SwiftyCrypto', :tag => '0.0.2'
 
 end
