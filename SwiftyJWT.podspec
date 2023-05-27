@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name         = "SwiftyJWTNew"
-  s.version      = "0.0.5"
+  s.name         = "SwiftyJWT"
+  s.version      = "0.0.4"
   s.summary      = "A library to generate JWT with Swift with iOS 16 update "
   s.homepage     = "https://github.com/vizllx/SwiftyJWT"
   s.license      = { :type => "MIT", :file => "LICENSE" }
