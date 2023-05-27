@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import SwiftyCrypto
+import SwiftyCryptoNew
 
 public enum JWTAlgorithm: CustomStringConvertible {
 

@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import SwiftyCrypto
+import SwiftyCryptoNew
 
 class JWTRSATests: XCTestCase {
 

@@ -1,12 +1,16 @@
 PODS:
-  - SwiftyCrypto (0.0.1)
+  - SwiftyCryptoNew (0.0.2)
 
 DEPENDENCIES:
-  - SwiftyCrypto (~> 0.0.1)
+  - SwiftyCryptoNew (~> 0.0.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SwiftyCryptoNew
 
 SPEC CHECKSUMS:
-  SwiftyCrypto: ab59cdb153a7ca99b657fa8d9ebd2ebbd7694bbe
+  SwiftyCryptoNew: 4de16aa60dda9f5b8472cd3f9176a609dab6a32d
 
-PODFILE CHECKSUM: 6e8bd3804eade050cbff41032b575974d43f381d
+PODFILE CHECKSUM: 60258afd34cf36c874e9942a009dfe97155c387b
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.11.3
