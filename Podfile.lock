@@ -1,22 +1,12 @@
 PODS:
-  - SwiftyCrypto (0.0.2)
+  - SwiftyCrypto (0.0.1)
 
 DEPENDENCIES:
-  - SwiftyCrypto (from `https://github.com/vizllx/SwiftyCrypto`, tag `0.0.2`)
-
-EXTERNAL SOURCES:
-  SwiftyCrypto:
-    :git: https://github.com/vizllx/SwiftyCrypto
-    :tag: 0.0.2
-
-CHECKOUT OPTIONS:
-  SwiftyCrypto:
-    :git: https://github.com/vizllx/SwiftyCrypto
-    :tag: 0.0.2
+  - SwiftyCrypto (~> 0.0.1)
 
 SPEC CHECKSUMS:
-  SwiftyCrypto: 6be003c9fb5e08a6eaa1a9778a6e8370a660e0b5
+  SwiftyCrypto: ab59cdb153a7ca99b657fa8d9ebd2ebbd7694bbe
 
-PODFILE CHECKSUM: 931a85d2acdd7eab8a9c8e3c0d480f56a7b587e8
+PODFILE CHECKSUM: 6e8bd3804eade050cbff41032b575974d43f381d
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.4.0
